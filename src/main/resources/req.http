@@ -1,0 +1,7 @@
+POST http://localhost:8081/api/queue
+Content-Type: application/json
+
+{"name": "queueName1"}
+
+
+###
